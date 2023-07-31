@@ -10,3 +10,4 @@
 <h3 aligh="left">Примеры составления тестовой документации:</h3>
 https://drive.google.com/drive/folders/1r_ujNgrTPSr_sH487O1DC8nopzDIds1v?usp=sharing
 <h3 aligh="left">Мои проекты:</h3>
+* Тестирование личного кабинета учителя портала Skyeng - https://github.com/DVSemikin/Skyeng-teacher-s-personal-account
