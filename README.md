@@ -4,3 +4,4 @@
 
 <h3 aligh="left">Tools:</h3>
 <img src="https://img.shields.io/badge/JIRA-black?style=for-the-badge&logo=JIRA&logoColor=#0052CC"/>
+<img src="https://img.shields.io/badge/POSTMAN-black?style=for-the-badge&logo=JIRA&logoColor=#FF6C37"/>
