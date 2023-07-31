@@ -6,4 +6,4 @@ Beginner QA engineer. I have experience in manual testing of mobile and web appl
 <div> 
 <img src="https://img.shields.io/badge/JIRA-black?style=for-the-badge&logo=JIRA&logoColor=blue"/> <img src="https://img.shields.io/badge/POSTMAN-black?style=for-the-badge&logo=POSTMAN&logoColor=#FF6C37"/> <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=GitHub&logoColor=#181717"/> <img src="https://img.shields.io/badge/DEVTOOLS-black?style=for-the-badge&logo=DEVTOOLS&logoColor=#181717"/> <img src="https://img.shields.io/badge/ANDROIDSTUDIO-black?style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=#181717"/> <img src="https://img.shields.io/badge/QASE.IO-black?style=for-the-badge&logo=QASE.IO&logoColor=#181717"/> <img src="https://img.shields.io/badge/CHARLESPROXY-black?style=for-the-badge&logo=CHARLESPROXY&logoColor=#181717"/> <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=#4169E1"/> <img src="https://img.shields.io/badge/pYTHON-black?style=for-the-badge&logo=pYTHON&logoColor=yellow"/>
 </div>
-<h3 aligh="left">Testing Documentation:</h3>
+<h3 aligh="left">Portfolio:</h3>
