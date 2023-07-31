@@ -11,3 +11,4 @@
 https://drive.google.com/drive/folders/1r_ujNgrTPSr_sH487O1DC8nopzDIds1v?usp=sharing
 <h3 aligh="left">Мои проекты:</h3>
 * Тестирование личного кабинета учителя портала Skyeng - https://github.com/DVSemikin/Skyeng-teacher-s-personal-account
+* Тестирование мобильного приложения Skyeng - https://github.com/DVSemikin/Skyeng-Mobile-app
